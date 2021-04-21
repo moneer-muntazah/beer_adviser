@@ -2,10 +2,17 @@
     <string name="app_name">Beer Adviser</string>
     <string name="find_beer">Find Beer</string>
     <string name="brands">no beer selected</string>
+    <string name="welcome_text">Welcome to the Beer Adviser app!
+        Use this app to help you find your new favorite beer.
+        Click on the Start button to begin.</string>
+    <string name="start">Start</string>
+    <string name="suggestions_text">Here are some beers you might like to try:</string>
     <string-array name="beer_colors">
         <item>Light</item>
         <item>Amber</item>
         <item>Brown</item>
         <item>Dark</item>
     </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
